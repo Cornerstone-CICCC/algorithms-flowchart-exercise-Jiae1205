@@ -44,12 +44,14 @@ Write an algorithm and draw a flowchart that will read three numbers and prints 
 > Given that the three numbers are not equal to each other)
 
 ### _Answer_
+![Exercise 3](/flowcharts/Exercise3.PNG)
 
 ## Exercise 4
 
 Write an algorithm and draw a flowchart to check the three number inputs whether a triangle is possible or not.
 
 ### _Answer_
+![Exercise 4](/flowcharts/Exercise4.PNG)
 
 ## Exercise 5
 
@@ -67,4 +69,5 @@ Display the grades as per the table given below:
 | Less than 40%                 | No Grade |
 
 ### _Answer_
+![Exercise 5](/flowcharts/Exercise5.PNG)
 
